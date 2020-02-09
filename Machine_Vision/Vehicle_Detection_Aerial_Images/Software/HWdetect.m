@@ -1,3 +1,3 @@
 % %1- apply Thresholding:
 
-%Method 1
+%Method 1 : 
