@@ -1,3 +1,3 @@
 % %1- apply Thresholding:
 
-%Method 1 : in most cases, 
+%Method 1 : in most cases, pro
