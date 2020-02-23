@@ -1,4 +1,4 @@
 % %1- apply Thresholding:
 
 %Method 1 : in most cases, produces worse results
-% m1 = 
+% m1 = mea
