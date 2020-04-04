@@ -4,4 +4,4 @@
 % m1 = mean(HWoriginalImage);
 % m = mean(m1);
 % mid = m/2;
-% [r c] = size(HWoriginal
+% [r c] = size(HWoriginalIm
