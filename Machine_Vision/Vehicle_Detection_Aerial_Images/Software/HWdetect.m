@@ -5,4 +5,5 @@
 % m = mean(m1);
 % mid = m/2;
 % [r c] = size(HWoriginalImage);
-% for i=1:1
+% for i=1:1:r
+% 
