@@ -6,4 +6,5 @@
 % mid = m/2;
 % [r c] = size(HWoriginalImage);
 % for i=1:1:r
-%     for j=1:1:
+%     for j=1:1:c
+%
