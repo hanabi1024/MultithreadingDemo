@@ -7,4 +7,4 @@
 % [r c] = size(HWoriginalImage);
 % for i=1:1:r
 %     for j=1:1:c
-%         if (HWoriginalImage(i,j) >= mid  &  HWoriginalImage(i,j) <=
+%         if (HWoriginalImage(i,j) >= mid  &  HWoriginalImage(i,j) <= m
