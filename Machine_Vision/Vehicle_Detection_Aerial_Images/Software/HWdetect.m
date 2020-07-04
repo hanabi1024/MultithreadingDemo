@@ -10,3 +10,4 @@
 %         if (HWoriginalImage(i,j) >= mid  &  HWoriginalImage(i,j) <= m)
 %             thresholdedImage(i,j) = 0;
 %         else 
+%   
