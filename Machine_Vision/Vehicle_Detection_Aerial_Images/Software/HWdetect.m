@@ -12,4 +12,4 @@
 %         else 
 %             thresholdedImage(i,j) = 255;
 %         end
-% 
+%    
