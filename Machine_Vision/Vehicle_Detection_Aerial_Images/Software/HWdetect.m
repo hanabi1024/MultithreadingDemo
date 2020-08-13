@@ -13,4 +13,4 @@
 %             thresholdedImage(i,j) = 255;
 %         end
 %     end
-% 
+% end
