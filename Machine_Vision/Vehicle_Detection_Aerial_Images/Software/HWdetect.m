@@ -15,4 +15,4 @@
 %     end
 % end
 % figure(199);
-% imshow(thresholdedIm
+% imshow(thresholdedImage
