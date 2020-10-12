@@ -17,4 +17,4 @@
 % figure(199);
 % imshow(thresholdedImage);
 
-%Method 2 : in most cases, pro
+%Method 2 : in most cases, produces
