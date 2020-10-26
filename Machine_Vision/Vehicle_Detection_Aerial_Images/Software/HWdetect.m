@@ -18,3 +18,4 @@
 % imshow(thresholdedImage);
 
 %Method 2 : in most cases, produces better results
+t
