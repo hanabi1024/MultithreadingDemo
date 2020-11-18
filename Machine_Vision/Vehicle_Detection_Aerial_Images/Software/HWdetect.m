@@ -18,4 +18,4 @@
 % imshow(thresholdedImage);
 
 %Method 2 : in most cases, produces better results
-temp1 = HWori
+temp1 = HWorigin
