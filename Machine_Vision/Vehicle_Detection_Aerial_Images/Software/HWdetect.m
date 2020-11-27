@@ -18,4 +18,5 @@
 % imshow(thresholdedImage);
 
 %Method 2 : in most cases, produces better results
-temp1 = HWoriginalImage'
+temp1 = HWoriginalImage';
+t
