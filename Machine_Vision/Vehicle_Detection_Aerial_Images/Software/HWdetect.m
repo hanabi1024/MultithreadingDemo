@@ -19,4 +19,4 @@
 
 %Method 2 : in most cases, produces better results
 temp1 = HWoriginalImage';
-tem
+temp
