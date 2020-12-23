@@ -20,4 +20,4 @@
 %Method 2 : in most cases, produces better results
 temp1 = HWoriginalImage';
 temp2 = mean(temp1);
-T = min(
+T = min(temp
