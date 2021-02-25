@@ -22,4 +22,4 @@ temp1 = HWoriginalImage';
 temp2 = mean(temp1);
 T = min(temp2);
 thresholdedImage = HWoriginalImage;
-[r c] = 
+[r c] = siz
