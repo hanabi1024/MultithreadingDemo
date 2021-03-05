@@ -23,4 +23,4 @@ temp2 = mean(temp1);
 T = min(temp2);
 thresholdedImage = HWoriginalImage;
 [r c] = size(HWoriginalImage);
-for i=1:1
+for i=1:1:r
