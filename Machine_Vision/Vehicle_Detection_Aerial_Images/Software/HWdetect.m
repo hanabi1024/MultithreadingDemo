@@ -24,4 +24,4 @@ T = min(temp2);
 thresholdedImage = HWoriginalImage;
 [r c] = size(HWoriginalImage);
 for i=1:1:r
- 
+    
