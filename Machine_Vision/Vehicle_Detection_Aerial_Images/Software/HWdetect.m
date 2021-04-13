@@ -26,4 +26,4 @@ thresholdedImage = HWoriginalImage;
 for i=1:1:r
     for j=1:1:c
         if (HWoriginalImage(i,j) < T)
-            threshold
+            thresholdedI
