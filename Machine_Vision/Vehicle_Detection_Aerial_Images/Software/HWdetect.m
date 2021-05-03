@@ -28,4 +28,5 @@ for i=1:1:r
         if (HWoriginalImage(i,j) < T)
             thresholdedImage(i,j) = 0;
         else 
-            thresholdedImage(i,j) = 25
+            thresholdedImage(i,j) = 255;
+  
