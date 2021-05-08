@@ -30,4 +30,5 @@ for i=1:1:r
         else 
             thresholdedImage(i,j) = 255;
         end
-    en
+    end
+e
