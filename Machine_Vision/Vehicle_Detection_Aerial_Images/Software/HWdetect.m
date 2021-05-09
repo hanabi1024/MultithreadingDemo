@@ -32,4 +32,4 @@ for i=1:1:r
         end
     end
 end
-fig
+figure(199
