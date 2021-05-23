@@ -34,3 +34,5 @@ for i=1:1:r
 end
 figure(199);
 imshow(thresholdedImage);
+
+%2
