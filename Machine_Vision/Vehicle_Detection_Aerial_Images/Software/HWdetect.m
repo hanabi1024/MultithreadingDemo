@@ -35,4 +35,4 @@ end
 figure(199);
 imshow(thresholdedImage);
 
-%2- M
+%2- Morp
