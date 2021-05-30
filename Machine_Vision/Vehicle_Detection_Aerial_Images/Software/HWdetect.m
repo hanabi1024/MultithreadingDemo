@@ -35,4 +35,4 @@ end
 figure(199);
 imshow(thresholdedImage);
 
-%2- Morphlogical opera
+%2- Morphlogical operati
