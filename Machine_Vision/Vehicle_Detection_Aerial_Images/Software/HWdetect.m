@@ -35,4 +35,5 @@ end
 figure(199);
 imshow(thresholdedImage);
 
-%2- Morphlogical operations
+%2- Morphlogical operations:
+Bt
