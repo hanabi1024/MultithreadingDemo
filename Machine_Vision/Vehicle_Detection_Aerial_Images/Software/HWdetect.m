@@ -36,4 +36,5 @@ figure(199);
 imshow(thresholdedImage);
 
 %2- Morphlogical operations:
-BthresholdedImage = im2bw(thresholdedImage)
+BthresholdedImage = im2bw(thresholdedImage);
+%2
