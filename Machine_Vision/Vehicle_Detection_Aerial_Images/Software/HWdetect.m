@@ -37,4 +37,4 @@ imshow(thresholdedImage);
 
 %2- Morphlogical operations:
 BthresholdedImage = im2bw(thresholdedImage);
-%2-1- clean: Removes isolated pixels (individual 1's t
+%2-1- clean: Removes isolated pixels (individual 1's th
