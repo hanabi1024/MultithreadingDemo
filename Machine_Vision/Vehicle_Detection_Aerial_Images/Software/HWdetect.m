@@ -40,4 +40,4 @@ BthresholdedImage = im2bw(thresholdedImage);
 %2-1- clean: Removes isolated pixels (individual 1's that are surrounded by 0's
 cleanedBthresholdedImage = bwmorph(BthresholdedImage,'clean');
 figure(198);
-imshow(cleanedBthreshol
+imshow(cleanedBthresholde
