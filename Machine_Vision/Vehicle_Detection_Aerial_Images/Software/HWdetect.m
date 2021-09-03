@@ -41,4 +41,4 @@ BthresholdedImage = im2bw(thresholdedImage);
 cleanedBthresholdedImage = bwmorph(BthresholdedImage,'clean');
 figure(198);
 imshow(cleanedBthresholdedImage);
-% if (cleanedBthresholdedImage == 
+% if (cleanedBthresholdedImage == clea
