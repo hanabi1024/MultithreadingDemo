@@ -43,3 +43,4 @@ figure(198);
 imshow(cleanedBthresholdedImage);
 % if (cleanedBthresholdedImage == cleanedBthresholdedImage)
 %     mes = 'equal!';
+% 
