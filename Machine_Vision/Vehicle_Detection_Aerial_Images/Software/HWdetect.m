@@ -44,4 +44,4 @@ imshow(cleanedBthresholdedImage);
 % if (cleanedBthresholdedImage == cleanedBthresholdedImage)
 %     mes = 'equal!';
 %     mes
-% end
+% end;
