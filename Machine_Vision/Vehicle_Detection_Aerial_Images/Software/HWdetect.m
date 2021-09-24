@@ -46,4 +46,4 @@ imshow(cleanedBthresholdedImage);
 %     mes
 % end;
 
-%2-2- majori
+%2-2- majority
