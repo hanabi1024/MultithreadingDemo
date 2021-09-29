@@ -46,4 +46,4 @@ imshow(cleanedBthresholdedImage);
 %     mes
 % end;
 
-%2-2- majority: Sets 
+%2-2- majority: Sets a pixel
