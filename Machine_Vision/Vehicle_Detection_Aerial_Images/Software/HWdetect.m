@@ -46,4 +46,4 @@ imshow(cleanedBthresholdedImage);
 %     mes
 % end;
 
-%2-2- majority: Sets a pixel to 1 if five or more pixels in i
+%2-2- majority: Sets a pixel to 1 if five or more pixels in its
