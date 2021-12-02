@@ -49,4 +49,4 @@ imshow(cleanedBthresholdedImage);
 %2-2- majority: Sets a pixel to 1 if five or more pixels in its 3-by-3 neighborhood are 1's; otherwise, it sets the pixel to 0.
 majoredCleanedBthresholdedImage = bwmorph(cleanedBthresholdedImage,'majority');
 figure(197);
-imshow(majoredCleanedBthresho
+imshow(majoredCleanedBthreshold
