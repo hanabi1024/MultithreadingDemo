@@ -50,4 +50,4 @@ imshow(cleanedBthresholdedImage);
 majoredCleanedBthresholdedImage = bwmorph(cleanedBthresholdedImage,'majority');
 figure(197);
 imshow(majoredCleanedBthresholdedImage);
-%2-3-
+%2-3- fill
