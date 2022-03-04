@@ -52,4 +52,4 @@ figure(197);
 imshow(majoredCleanedBthresholdedImage);
 %2-3- fill: Fills isolated interior pixels (individual 0's that are surrounded by 1's)
 filledMajoredCleanedBthresholdedImage = bwmorph(majoredCleanedBthresholdedImage,'fill');
-figure(19
+figure(196);
