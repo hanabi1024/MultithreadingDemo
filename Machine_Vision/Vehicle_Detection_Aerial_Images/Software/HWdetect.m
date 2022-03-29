@@ -54,3 +54,4 @@ imshow(majoredCleanedBthresholdedImage);
 filledMajoredCleanedBthresholdedImage = bwmorph(majoredCleanedBthresholdedImage,'fill');
 figure(196);
 imshow(filledMajoredCleanedBthresholdedImage);
+%
