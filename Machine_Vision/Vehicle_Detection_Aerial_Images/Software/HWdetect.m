@@ -54,4 +54,5 @@ imshow(majoredCleanedBthresholdedImage);
 filledMajoredCleanedBthresholdedImage = bwmorph(majoredCleanedBthresholdedImage,'fill');
 figure(196);
 imshow(filledMajoredCleanedBthresholdedImage);
-%2-4- ero
+%2-4- erode
+e
