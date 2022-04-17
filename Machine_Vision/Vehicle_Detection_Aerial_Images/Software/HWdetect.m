@@ -55,4 +55,4 @@ filledMajoredCleanedBthresholdedImage = bwmorph(majoredCleanedBthresholdedImage,
 figure(196);
 imshow(filledMajoredCleanedBthresholdedImage);
 %2-4- erode
-erodedFilledMajoredCleanedBt
+erodedFilledMajoredCleanedBthr
