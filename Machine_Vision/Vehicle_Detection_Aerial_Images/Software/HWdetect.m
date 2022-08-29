@@ -61,4 +61,4 @@ imshow(erodedFilledMajoredCleanedBthresholdedImage);
 %intensity image
 mResult = erodedFilledMajoredCleanedBthresholdedImage;
 intensityImage = mResult;
-for i=1:
+for i=1:1:r
