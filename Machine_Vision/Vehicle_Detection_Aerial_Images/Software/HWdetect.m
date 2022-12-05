@@ -66,4 +66,4 @@ for i=1:1:r
         if (mResult(i,j)== 0)
             intensityImage(i,j) = HWoriginalImage(i,j);
         else 
-       
+          
