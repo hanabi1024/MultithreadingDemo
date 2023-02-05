@@ -68,4 +68,5 @@ for i=1:1:r
         else 
             intensityImage(i,j) = 0;
         end
-    e
+    end
+e
