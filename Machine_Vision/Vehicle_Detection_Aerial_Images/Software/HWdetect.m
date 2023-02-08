@@ -69,4 +69,4 @@ for i=1:1:r
             intensityImage(i,j) = 0;
         end
     end
-e
+end 
