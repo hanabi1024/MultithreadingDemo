@@ -71,3 +71,4 @@ for i=1:1:r
     end
 end 
 figure(194);
+imshow(i
