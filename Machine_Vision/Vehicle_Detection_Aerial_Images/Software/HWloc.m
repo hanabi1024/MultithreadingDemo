@@ -5,3 +5,5 @@ location = inputdlg(prompt, title);
 location1 = char(location); % type conversion from cellstring to string
 
 % if (strcmp(location1,'')==1)
+%     location1 = 'HWdefualt.bmp'; 
+% end
