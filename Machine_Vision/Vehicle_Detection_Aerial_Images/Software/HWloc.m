@@ -14,3 +14,6 @@ HWoriginalImage = imread(location1);
 if (p>1)
     tempImg = rgb2gray(HWoriginalImage);
     HWoriginalImage = tempImg;
+end
+figure(200);
+subplot(1,1,1),imshow(HWoriginalImage); 
