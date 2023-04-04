@@ -9,3 +9,8 @@ location1 = char(location); % type conversion from cellstring to string
 % end
 
 HWoriginalImage = imread(location1);
+
+[r c p] = size(HWoriginalImage);
+if (p>1)
+    tempImg = rgb2gray(HWoriginalImage);
+    HWoriginalImage = tempImg;
